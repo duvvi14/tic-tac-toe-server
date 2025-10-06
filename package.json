@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/duvvi14/tic-tac-toe-server#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.21.2",
     "socket.io": "^4.8.1"
   }
