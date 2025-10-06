@@ -1,0 +1,24 @@
+{
+  "name": "tic-tac-toe-server",
+  "version": "1.0.0",
+  "description": "Server Connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duvvi14/tic-tac-toe-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duvvi14/tic-tac-toe-server/issues"
+  },
+  "homepage": "https://github.com/duvvi14/tic-tac-toe-server#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
